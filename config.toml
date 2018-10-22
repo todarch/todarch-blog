@@ -1,0 +1,4 @@
+baseURL = "https://todarch.github.io"
+languageCode = "en-us"
+title = "Todarch Blog"
+theme = "ananke"
