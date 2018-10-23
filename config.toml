@@ -1,4 +1,4 @@
-baseURL = "https://todarch.github.io"
+baseURL = "https://todarch.github.io/"
 languageCode = "en-us"
-title = "Todarch Blog"
+title = "Todarch Technical Blog"
 theme = "ananke"
