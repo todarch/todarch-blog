@@ -10,7 +10,12 @@ Served version can be found
 
 ### Hugo Stuff
 
-- make your changes
+- new post
+
+```shell
+cd <todarch-blog>
+hugo new post/a-name.md
+```
 
 ```shell
 hugo server
