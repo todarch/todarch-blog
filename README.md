@@ -14,7 +14,7 @@ Served version can be found
 
 ```shell
 cd <todarch-blog>
-hugo new post/a-name.md
+hugo new posts/a-name.md
 ```
 
 ```shell
