@@ -4,6 +4,7 @@ date: 2018-10-29T16:26:49+02:00
 description: "application-side id generation description"
 tags: [ "uuid", "hibernate", "java", "ddd", "sequence", "postgresql" ]
 categories: ["java", "ddd"]
+author: selimssevgi
 ---
 
 On the weekend, I needed to implement edit functionality for todo item.

@@ -21,7 +21,7 @@ hugo new posts/a-name.md
 hugo server
 ```
 
-- iterate over, deploy when you are with with the result.
+- iterate over, deploy when you are happy with the result.
 
 ```shell
 ./deploy.sh
